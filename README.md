@@ -6,11 +6,6 @@ Deploy in **60 seconds** locally or on **Streamlit Cloud** (free).
 
 ---
 
-## Live Demo
-**Streamlit Cloud (free):** https://automated-reporting-engine.streamlit.app  
-**PowerBI Service:** Open `powerbi/Report_Automation.pbix` → Publish → Share
-
----
 
 ## What It Automates (10+ hrs saved)
 | Manual Task | Old Time | New Time | Automation |
